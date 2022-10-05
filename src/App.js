@@ -10,7 +10,7 @@ import MovieDetail from "./pages/MovieDetail";
 
 function App() {
   return (
-    <Box sx={{ backgroundColor: '#383838' }}>
+    <Box sx={{ backgroundColor: '#000' }}>
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />

@@ -38,7 +38,7 @@ function MovieDetail() {
           <Typography variant='h6' sx={{ color: 'white', marginTop: '8px', marginRight: '5px' }}>
             Rating:
           </Typography>
-          <Rating name="half-rating-read" defaultValue={4.0} precision={1} readOnly />
+          <Rating name="half-rating-read" defaultValue={movie.star} precision={1} readOnly />
         </Stack>
       </Box>
       <Box sx={{ display: { xs: 'none', md: 'block' }, width: '26%', backgroundColor: '#1c1c1c' }}>

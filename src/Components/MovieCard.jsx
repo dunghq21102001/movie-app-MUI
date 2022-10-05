@@ -7,7 +7,7 @@ function MovieCard({ m }) {
 
     const truncateString = (str, num) => {
         if (str?.length > num) {
-            return str.slice(0, num) + ' . . .'
+            return str.slice(0, num) + ' ...'
         } else {
             return str
         }
@@ -15,7 +15,7 @@ function MovieCard({ m }) {
     return (
         <>
 
-            <Card sx={{ width: { xs: '100%', sm: '40%', md: '30%' }, marginTop: '30px' }}>
+            <Card sx={{ width: { xs: '100%', sm: '40%', md: '30%' }, marginTop: '30px', marginRight:'10px' }}>
                 <Link to={`/movieDetail/${m.id}`}>
                     <CardMedia
                         component="img"
@@ -26,7 +26,7 @@ function MovieCard({ m }) {
                 </Link>
                 <CardContent>
                     <Typography gutterBottom variant="h5" component="div">
-                        {truncateString(m?.title, 30)}
+                        {truncateString(m?.title, 15)}
                     </Typography>
                     <Typography variant="body2" color="text.secondary">
                         {truncateString(m?.des, 80)}
