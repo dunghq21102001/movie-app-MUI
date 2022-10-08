@@ -7,7 +7,8 @@ export const data = [
         "des": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
         "year": "2022",
         "nation": "USA",
-        'star': 4
+        'star': 4,
+        'videoId': 'KiSnBWXAuFY'
     },
     {
         id: '2',
@@ -16,7 +17,8 @@ export const data = [
         "des": "Jake Sully lives with his newfound family formed on the planet of Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their planet.",
         "year": "2022",
         "nation": "USA",
-        'star': 5
+        'star': 5,
+        'videoId': 'oeRG9A6bDdY'
     },
     {
         id: '3',
@@ -25,7 +27,8 @@ export const data = [
         "des": "Famed Southern detective Benoit Blanc travels to Greece for his latest case.",
         "year": "2019",
         "nation": "USA",
-        'star': 4
+        'star': 4,
+        'videoId': 'BYizVEg8VBg'
     },
     {
         id: '4',
@@ -34,7 +37,8 @@ export const data = [
         "des": "The world's greatest spy, 'Argylle,' gets caught up in a globe-trotting adventure.",
         "year": "2022",
         "nation": "USA",
-        'star': 3
+        'star': 3,
+        'videoId': '6cgn8dwOFmg'
     },
     {
         id: '5',
@@ -43,7 +47,8 @@ export const data = [
         "des": "Members of the Osage tribe in the United States are murdered under mysterious circumstances in the 1920s sparking a major F.B.I. investigation involving J. Edgar Hoover.",
         "year": "2017",
         "nation": "USA",
-        'star': 4
+        'star': 4,
+        'videoId': 'KRC4-jZSx0U'
     },
     {
         id: '6',
@@ -52,7 +57,8 @@ export const data = [
         "des": "Miles Morales returns for the next chapter of the Oscar®-winning Spider-Verse saga, an epic adventure that will transport Brooklyn's full-time",
         "year": "2023",
         "nation": "USA",
-        'star': 5
+        'star': 5,
+        'videoId': 'BbXJ3_AQE_o'
     },
     {
         id: '7',
@@ -61,7 +67,8 @@ export const data = [
         "des": "The life of American music icon Elvis Presley, from his childhood to becoming a rock and movie star in the 1950s while maintaining a complex relationship with his manager, Colonel Tom Parker.",
         "year": "1977",
         "nation": "USA",
-        'star': 5
+        'star': 5,
+        'videoId': 'CQ9UbXaLpTw'
     },
     {
         id: '8',
@@ -70,7 +77,8 @@ export const data = [
         "des": "Set in Hollywood during the transition from silent films to talkies, focusing on a mixture of historical & fictional characters.",
         "year": "2022",
         "nation": "USA",
-        'star': 5
+        'star': 5,
+        'videoId': 't7HT83wkVss'
     },
     {
         id: '9',
@@ -79,7 +87,8 @@ export const data = [
         "des": "The plot is unknown at this time. The Best Movies and Series to Watch in October.",
         "year": "2020",
         "nation": "USA",
-        'star': 4
+        'star': 4,
+        'videoId': 'rwswcMNOXDw'
     },
     {
         id: '10',
@@ -88,7 +97,8 @@ export const data = [
         "des": "Mei Lee is a confident, dorky thirteen-year-old torn between staying her mother's dutiful daughter and the chaos of adolescence. And as if changes to her interests, relationships, and body weren't enough, whenever she gets too excited, she 'poofs' into a giant red panda!",
         "year": "2021",
         "nation": "USA",
-        'star': 5
+        'star': 5,
+        'videoId': 'pqdHP2dWQ9M'
     },
     {
         id: '11',
@@ -97,7 +107,8 @@ export const data = [
         "des": "Marcel is an adorable one-inch-tall shell who ekes out a colorful existence with his grandmother Connie and their pet lint, Alan. Once part of a sprawling community of shells.",
         "year": "2021",
         "nation": "USA",
-        'star': 5
+        'star': 5,
+        'videoId': 'k98Afd7Nf3Y'
     },
 ]
 

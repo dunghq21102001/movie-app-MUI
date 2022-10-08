@@ -137,11 +137,11 @@ const Header = () => {
                             >Home
                             </Button>
                         </Link>
-                        <Link to={'/blog'}>
+                        <Link to={'/news'}>
                             <Button
                                 onClick={handleCloseNavMenu}
                                 sx={{ my: 2, color: 'white', display: 'block' }}
-                            >Blog
+                            >News
                             </Button>
                         </Link>
                         <Link to={'/contact'}>

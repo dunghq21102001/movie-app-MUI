@@ -3,6 +3,7 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+
 a {
   text-decoration: none;
 }
@@ -10,6 +11,7 @@ a {
 ::-webkit-scrollbar {
   width: 0px;
 }
+
 .footer-distributed {
   background-color: #292c2f;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
@@ -105,4 +107,19 @@ a {
   .footer-distributed .footer-left p.footer-links {
     line-height: 1.8;
   }
+}
+
+.contact-form {
+  width: 60%;
+}
+
+@media (max-width: 739px) {
+  .iframe {
+    width: 100%;
+  }
+
+  .contact-form {
+    width: 100%;
+  }
+
 }
