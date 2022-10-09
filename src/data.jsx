@@ -154,3 +154,12 @@ export const movieTypesData = [
     { id: '7', type: 'Action' },
     { id: '8', type: 'Adventure' },
 ]
+
+export const newsAboutMovies = [
+    { id: '1', newsImg: 'https://images.bauerhosting.com/empire/2022/09/armor-wars-title.jpg?q=80&w=1400&ar=16:9&fit=crop&crop=top', title: 'Marvel Reportedly Turning Armor Wars Series Into A Movie' },
+    { id: '2', newsImg: 'https://images.bauerhosting.com/empire/2022/10/ruben-fleischer-main.jpg?q=80&w=1400&ar=16:9&fit=crop&crop=top', title: 'Ruben Fleischer Directing Third Now You See Me Movie' },
+    { id: '3', newsImg: 'https://images.bauerhosting.com/empire/2022/10/community-main.jpg?q=80&w=1400&ar=16:9&fit=crop&crop=top', title: 'The Community Movie Is Finally Happening' },
+    { id: '4', newsImg: 'https://images.bauerhosting.com/empire/2022/10/dc-vault.jpg?q=80&w=1400&ar=16:9&fit=crop&crop=top', title: 'PROMOTION: Win A Money-Can’t-Buy Peek Inside The DC Archive' },
+    { id: '5', newsImg: 'https://images.bauerhosting.com/legacy/media/61b2/2a36/d603/e8f9/992f/65b8/extraction-2-crop.jpg?q=80&w=1400&ar=16:9&fit=crop&crop=top', title: 'Chris Hemsworth Provides A Look Behind The Scenes Of Extraction 2' },
+    { id: '6', newsImg: 'https://images.bauerhosting.com/empire/2022/09/heart-of-stone-main.jpg?q=80&w=1400&ar=16:9&fit=crop&crop=top', title: 'Gal Gadot Offers Behind The Scenes Look At Spy Thriller Heart Of Stone' },
+]
